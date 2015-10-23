@@ -1,6 +1,6 @@
 {
   "name": "nbtc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "用 node.js 写的命令行查看比特币莱特币数据的工具",
   "main": "index.js",
   "scripts": {
