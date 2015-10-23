@@ -1,0 +1,19 @@
+{
+  "name": "Btc",
+  "version": "0.1.0",
+  "description": "用 node.js 写的命令行查看比特币莱特币数据的工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Go7hic",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "request": "^2.64.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "btc": "index.js"
+  }
+}
