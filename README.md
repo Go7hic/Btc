@@ -1,4 +1,7 @@
 # Btc
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/Btc.svg)](https://greenkeeper.io/)
+
 node.js 写的一个命令行查看比特币、莱特比市场行情的一个小工具
 
 Update: 之前的接口地址已经失效了，随着比特币的发展，很多玩家进场退场，感觉这个小工具也没啥用了，真的币民不会天天关注币价的。所以尽管接口没用了也不打算更新了，不过还是推荐一个有用的 api 地址：https://www.okcoin.cn/api/v1/ticker.do?symbol=btc_cny 
